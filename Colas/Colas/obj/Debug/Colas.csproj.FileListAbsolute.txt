@@ -1,0 +1,7 @@
+C:\Users\FERCAMPOS\source\repos\Colas\Colas\bin\Debug\Colas.exe.config
+C:\Users\FERCAMPOS\source\repos\Colas\Colas\bin\Debug\Colas.exe
+C:\Users\FERCAMPOS\source\repos\Colas\Colas\bin\Debug\Colas.pdb
+C:\Users\FERCAMPOS\source\repos\Colas\Colas\obj\Debug\Colas.csprojAssemblyReference.cache
+C:\Users\FERCAMPOS\source\repos\Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Users\FERCAMPOS\source\repos\Colas\Colas\obj\Debug\Colas.exe
+C:\Users\FERCAMPOS\source\repos\Colas\Colas\obj\Debug\Colas.pdb
